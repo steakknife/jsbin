@@ -58,7 +58,7 @@
     "semver": "~2.1.0",
     "sendy-api": "0.0.1",
     "soak": "0.3.0",
-    "sqlite3": "~3.0.4",
+    "sqlite3": "https://github.com/mapbox/node-sqlite3/tarball/master",
     "stripe": "~2.7.3",
     "stylus": "^0.47.1",
     "undefsafe": "0.0.2",
